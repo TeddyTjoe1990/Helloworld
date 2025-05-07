@@ -6,8 +6,8 @@ Hello world example project (Week 1) - CSE 310
 
 # Development Environment
 
-*Python
-*VSCode
+* Python
+* VSCode
 
 # Useful Websites
 
