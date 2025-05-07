@@ -2,7 +2,7 @@
 
 Hello world example project (Week 1) - CSE 310
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/p0aSyEcoLX4)
 
 # Development Environment
 
