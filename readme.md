@@ -11,6 +11,6 @@ VSCode
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win)
 * [Getting Started with VS Code and C#](https://learn.microsoft.com/en-us/shows/dotnet/get-started-vscode-csharp-net-core-windows)
